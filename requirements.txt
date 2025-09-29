@@ -1,0 +1,16 @@
+# YouTube API
+google-api-python-client
+
+# Data processing
+pandas
+numpy
+
+# PostgreSQL connector
+psycopg2-binary
+SQLAlchemy
+
+# Environment variables
+python-dotenv
+
+# Optional: scheduling/orchestration later
+apache-airflow
